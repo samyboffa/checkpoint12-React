@@ -1,0 +1,19 @@
+#first,
+#second {
+    display: flex;
+    justify-content: space-around;
+    box-shadow: cornflowerblue 5px 5px 10px;
+    padding: 5%;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande";
+    background-color: #99a1ad;
+    margin-top: 1%;
+    border-radius: 5px 5px 5px 5px;
+}
+h2 {
+    color: crimson;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande";
+    font-size: 1.5em;
+}
+input {
+    width: 200px;
+}
