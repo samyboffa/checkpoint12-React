@@ -341,7 +341,7 @@ const Formulaire = () => {
                 </fieldset>
                 <fieldset>
                     <h2> Enregistrer moyen de paiement</h2>
-                    <label> numero de carte : </label>{" "}
+                    <label> Numero de carte : </label>{" "}
                     <input type="text"></input> <br />
                     <label>
                         {" "}
